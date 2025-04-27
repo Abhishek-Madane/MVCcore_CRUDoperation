@@ -1,0 +1,43 @@
+﻿@model MVCcoreCURD.Models.Student
+
+@{
+    ViewData["Title"] = "create";
+}
+
+<h1>create</h1>
+
+<h4>Student</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Sname" class="control-label"></label>
+                <input asp-for="Sname" class="form-control" />
+                <span asp-validation-for="Sname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Sage" class="control-label"></label>
+                <input asp-for="Sage" class="form-control" />
+                <span asp-validation-for="Sage" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Sstd" class="control-label"></label>
+                <input asp-for="Sstd" class="form-control" />
+                <span asp-validation-for="Sstd" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
