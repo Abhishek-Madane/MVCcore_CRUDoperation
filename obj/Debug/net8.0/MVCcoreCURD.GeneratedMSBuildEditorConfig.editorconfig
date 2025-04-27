@@ -1,0 +1,67 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MVCcoreCURD
+build_property.RootNamespace = MVCcoreCURD
+build_property.ProjectDir = D:\asp .net mvc core8\MVCcoreCURD\MVCcoreCURD\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\asp .net mvc core8\MVCcoreCURD\MVCcoreCURD
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/asp .net mvc core8/MVCcoreCURD/MVCcoreCURD/wwwroot/Views/Home/create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxWaWV3c1xIb21lXGNyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp .net mvc core8/MVCcoreCURD/MVCcoreCURD/wwwroot/Views/Home/delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxWaWV3c1xIb21lXGRlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp .net mvc core8/MVCcoreCURD/MVCcoreCURD/wwwroot/Views/Home/details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxWaWV3c1xIb21lXGRldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp .net mvc core8/MVCcoreCURD/MVCcoreCURD/wwwroot/Views/Home/edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxWaWV3c1xIb21lXGVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp .net mvc core8/MVCcoreCURD/MVCcoreCURD/wwwroot/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp .net mvc core8/MVCcoreCURD/MVCcoreCURD/wwwroot/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxWaWV3c1xTaGFyZWRcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp .net mvc core8/MVCcoreCURD/MVCcoreCURD/wwwroot/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxWaWV3c1xTaGFyZWRcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp .net mvc core8/MVCcoreCURD/MVCcoreCURD/wwwroot/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp .net mvc core8/MVCcoreCURD/MVCcoreCURD/wwwroot/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/asp .net mvc core8/MVCcoreCURD/MVCcoreCURD/wwwroot/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxWaWV3c1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-bi3rrf6waa
